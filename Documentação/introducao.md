@@ -55,3 +55,7 @@ description: Criando o primeiro código
 * Escolha para rodar local
 
 <figure><img src=".gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+
+* Resultado:
+
+<figure><img src=".gitbook/assets/image (25).png" alt="" width="225"><figcaption></figcaption></figure>
