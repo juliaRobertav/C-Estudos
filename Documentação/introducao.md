@@ -60,4 +60,7 @@ description: Criando o primeiro código
 
 <figure><img src=".gitbook/assets/image (25).png" alt="" width="225"><figcaption></figcaption></figure>
 
+* _Clean_ -> remove todo lixo, arquvivo temporário que tenha no projeto, evitando problemas
+* _Build All (Ctrl + B)_ -> compila o programa e mostra se tem erros e/ou alertas, ajudando para quando for executar depois
+
 **Nunca se esqueça de salvar qualquer alteração que fizer! :)**
