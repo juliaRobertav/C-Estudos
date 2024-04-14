@@ -59,3 +59,5 @@ description: Criando o primeiro código
 * Resultado:
 
 <figure><img src=".gitbook/assets/image (25).png" alt="" width="225"><figcaption></figcaption></figure>
+
+**Nunca se esqueça de salvar qualquer alteração que fizer! :)**
